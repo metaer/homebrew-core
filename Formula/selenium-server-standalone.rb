@@ -1,7 +1,7 @@
 class SeleniumServerStandalone < Formula
   desc "Browser automation for testing purposes"
   homepage "https://www.seleniumhq.org/"
-  url "http://selenium-release.storage.googleapis.com/2.52/selenium-server-standalone-2.52.0.jar"
+  url "https://selenium-release.storage.googleapis.com/3.9/selenium-server-standalone-3.9.1.jar"
 
   bottle :unneeded
 
